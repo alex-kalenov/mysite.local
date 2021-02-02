@@ -1,4 +1,4 @@
 <?php
-	//echo 'Hello, NIX Education';
-	phpinfo();
+	//phpinfo();
+	echo 'Hello, NIX Education';
 ?>
